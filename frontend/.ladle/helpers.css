@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Inter var';
+  src: url('../app/assets/fonts/Inter.var.woff2');
+}
+@font-face {
+  font-family: 'IBM Plex Mono';
+  src: url('../app/assets/fonts/IBMPlexMono-Regular.woff2');
+}
+
+.ladle-main {
+  padding: unset;
+}
